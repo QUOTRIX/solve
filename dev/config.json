@@ -1,0 +1,43 @@
+{
+  "environments": {
+    "production": {
+      "type": "hostinger",
+      "url": "your-production-url.com",
+      "deployMethod": "ftp/ssh"
+    },
+    "staging": {
+      "type": "local",
+      "url": "localhost/wordpress",
+      "database": "wordpress_staging"
+    }
+  },
+  "workflow": {
+    "frontendBuilder": "hostinger",
+    "versionControl": "github",
+    "deploymentSteps": [
+      "backup",
+      "sync-database",
+      "push-code",
+      "clear-cache"
+    ]
+  },
+  "backup": {
+    "frequency": "daily",
+    "retention": "7days",
+    "locations": [
+      "local",
+      "github",
+      "hostinger"
+    ]
+  },
+  "synchronization": {
+    "frontend": {
+      "exportPath": "dev/frontend-exports",
+      "frequency": "on-change"
+    },
+    "backend": {
+      "branches": ["main", "staging", "development"],
+      "requireReview": true
+    }
+  }
+}
