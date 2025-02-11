@@ -1,5 +1,20 @@
 <?php
 
+// Register page templates
+function solve_register_page_templates($templates) {
+    $templates['search-template.php'] = 'Search Page';
+    return $templates;
+}
+add_filter('theme_page_templates', 'solve_register_page_templates');
+
+function solve_load_page_template($template) {
+    if(get_page_template_slug() === 'search-template.php') {
+        $template = get_template_directory() . '/search-template.php';
+    }
+    return $template;
+}
+add_filter('page_template', 'solve_load_page_template');
+
 function solve_enqueue_search_scripts() {
     // Add console logging for debugging
     wp_enqueue_script('debug-script', get_template_directory_uri() . '/js/debug.js', array(), '1.0.0', true);
