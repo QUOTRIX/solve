@@ -1,0 +1,455 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger AI theme 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-ai-"
+"theme\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-17T07:01:03+00:00\n"
+"PO-Revision-Date: 2024-12-16 07:59+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hostinger-ai-theme\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.11; wp-6.4.5"
+
+#: includes/Admin/AdminTranslations.php:10
+msgid ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site couldn’t be created</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">That’s because of an "
+"issue on our end. Try creating your site again. </p></span>"
+msgstr ""
+"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 "
+"style=\"margin:0; font-size:16px\">Site kon niet worden gemaakt</h3> <p "
+"style=\"margin-top:0; font-size:14px; color:#727586\">Dat komt door een "
+"probleem aan onze kant. Probeer je site opnieuw te maken. </p></span>"
+
+#: includes/Admin/AdminTranslations.php:11 includes/Admin/Menu.php:21
+#: includes/Admin/Menu.php:22
+msgid "AI Website Creation"
+msgstr "AI website maken"
+
+#: includes/Shortcodes/ContactForm.php:26
+#, fuzzy
+msgid "An error occurred. Please try again later."
+msgstr "Er heeft zich een fout voorgedaan. Probeer het later nog eens."
+
+#. translators: %s php version
+#: functions.php:36
+msgid "Attention:"
+msgstr "Attentie:"
+
+#: includes/Admin/AdminTranslations.php:22
+msgid "Back"
+msgstr "Terug"
+
+#: includes/Admin/AdminTranslations.php:18
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/Admin/AdminTranslations.php:13
+msgid "Brand name"
+msgstr "Merknaam"
+
+#: includes/Admin/AdminTranslations.php:26
+msgid "Building content"
+msgstr "Inhoud opbouwen"
+
+#: includes/Admin/AdminTranslations.php:17
+msgid "Business and services"
+msgstr "Bedrijven en diensten"
+
+#: includes/Admin/AdminTranslations.php:35
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 1 (Section backgrounds)"
+msgstr "Kleur 1 (Sectie achtergronden)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 2 (Section backgrounds)"
+msgstr "Kleur 2 (Sectie achtergronden)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Color 3 (Button background)"
+msgstr "Kleur 3 (achtergrond van knop)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark (Text on Light and Color 1)"
+msgstr "Donker (Tekst op Licht en Kleur 1)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Grey (Form borders)"
+msgstr "Grijs (Vormranden)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Light (Text on Color 2 and Gradient)"
+msgstr "Licht (tekst op kleur 2 en kleurverloop)"
+
+#: includes/Admin/AdminTranslations.php:28
+msgid "Confirm & edit"
+msgstr "Bevestigen en bewerken"
+
+#: includes/Builder/NavigationBuilder.php:293
+msgid "Contacts"
+msgstr "Contacten"
+
+#: includes/Admin/AdminTranslations.php:36
+msgid "Continue"
+msgstr "Ga verder"
+
+#: includes/Admin/AdminTranslations.php:21
+msgid "Create"
+msgstr "Maak"
+
+#: includes/Admin/AdminTranslations.php:27
+msgid "Create again"
+msgstr "Opnieuw creëren"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No title"
+msgstr "Geen titel"
+
+#: includes/Admin/AdminTranslations.php:19
+msgid "Describe your site"
+msgstr "Beschrijf je site"
+
+#: includes/Admin/AdminTranslations.php:20
+msgid "Description"
+msgstr "Beschrijving"
+
+#: includes/Admin/Surveys.php:35
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "Heb je opmerkingen/suggesties voor het verbeteren van onze AI-tools?"
+
+#: includes/Hooks.php:79
+msgid "Edit site"
+msgstr "Site bewerken"
+
+#: includes/Shortcodes/ContactForm.php:69
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/Admin/AdminTranslations.php:30
+msgid "Enter at least 11 characters"
+msgstr "Voer minstens 11 tekens in"
+
+#: includes/Admin/AdminTranslations.php:33
+msgid "Existing content will be deleted"
+msgstr "Bestaande inhoud wordt verwijderd"
+
+#: includes/Admin/Templates/featured-image-metabox.php:7
+msgid "External image can be used to show featured image."
+msgstr "Een externe afbeelding kan als uitgelichte afbeelding worden gebruikt."
+
+#: includes/Admin/Templates/featured-image-metabox.php:12
+msgid "External Image URL"
+msgstr "Externe afbeelding URL"
+
+#: includes/Admin/Hooks.php:33
+msgid "Featured Image with URL"
+msgstr "Uitgelichte afbeelding met URL"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr "Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "Systeem"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Groot"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Klein"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "XL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/Admin/AdminTranslations.php:23
+msgid "Generating colors"
+msgstr "Kleuren genereren"
+
+#: includes/Admin/AdminTranslations.php:25
+msgid "Generating content"
+msgstr "Inhoud genereren"
+
+#: includes/Admin/AdminTranslations.php:24
+msgid "Generating structure"
+msgstr "Structuur genereren"
+
+#: includes/Admin/AdminTranslations.php:29
+msgid "Give us a minute"
+msgstr "Geef ons een minuutje"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Section background gradient"
+msgstr "Sectie achtergrondverloop"
+
+#: includes/Admin/AdminTranslations.php:32
+msgid "Great description! Feel free to add more details"
+msgstr "Geweldige beschrijving! Voel je vrij om meer details toe te voegen"
+
+#. Author of the theme
+#: style.css
+msgid "Hostinger"
+msgstr "Hoster"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Hostinger AI theme"
+msgstr "Hostinger AI thema"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"Hostinger AI theme built with SEO and mobile responsiveness in mind, this "
+"theme ensures optimal performance and a better online presence."
+msgstr ""
+"Hostinger AI thema gebouwd met SEO en mobiele responsiviteit in gedachten, "
+"dit thema zorgt voor optimale prestaties en een betere online aanwezigheid."
+
+#: includes/Admin/Surveys.php:31
+msgid ""
+"How would you rate your experience using our AI website builder to create "
+"your site? (Scale 1-10)"
+msgstr ""
+"Hoe beoordeel je je ervaring met het gebruik van onze AI website bouwer voor "
+"het maken van je site? (Schaal 1-10)"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#: includes/Shortcodes/ContactForm.php:42
+#, fuzzy
+msgid ""
+"I consent to use of provided personal data for the purpose of responding to "
+"the request as described in"
+msgstr ""
+"Ik geef toestemming om de verstrekte persoonlijke gegevens te gebruiken voor "
+"het beantwoorden van het verzoek zoals beschreven in"
+
+#: patterns/hidden-404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Het lijkt erop dat er niets is gevonden op deze locatie. Misschien een "
+"zoekopdracht proberen?"
+
+#: includes/Admin/AdminTranslations.php:31
+msgid "Let us know more about your website to get the best result"
+msgstr "Laat ons meer weten over je website voor het beste resultaat"
+
+#: includes/Builder/NavigationBuilder.php:292
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/Shortcodes/ContactForm.php:78
+#, fuzzy
+msgid "Message"
+msgstr "Bericht"
+
+#: includes/Shortcodes/ContactForm.php:60
+#, fuzzy
+msgid "Name"
+msgstr "Naam"
+
+#: includes/Shortcodes/ContactForm.php:131
+#, fuzzy
+msgid "New Contact Form Submission"
+msgstr "Nieuw contactformulier"
+
+#: patterns/query.php:24
+msgid "No results found."
+msgstr "Geen resultaten gevonden."
+
+#: includes/Shortcodes/ContactForm.php:150
+#, fuzzy
+msgid "Not valid recipient email."
+msgstr "Geen geldige ontvanger e-mail."
+
+#: includes/Admin/AdminTranslations.php:15
+msgid "Other"
+msgstr "Andere"
+
+#: patterns/hidden-404.php:13
+msgid "Page not found"
+msgstr "Pagina niet gevonden"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Hidden post meta"
+msgstr "Verborgen post meta"
+
+#: patterns/query.php
+msgctxt "Pattern title"
+msgid "Query"
+msgstr "Vraag"
+
+#: includes/Shortcodes/ContactForm.php:123
+#, fuzzy
+msgid "Please agree with privacy policy."
+msgstr "Ga akkoord met het privacybeleid."
+
+#: includes/Shortcodes/ContactForm.php:127
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "Voer een geldig e-mailadres in."
+
+#: includes/Admin/AdminTranslations.php:16
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: includes/Shortcodes/ContactForm.php:44
+#, fuzzy
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: includes/Rest/BuilderRoutes.php:210
+msgid "Problem building content."
+msgstr "Probleemoplossende inhoud."
+
+#: includes/Rest/BuilderRoutes.php:166
+msgid "Problem generating content."
+msgstr "Problemen met het genereren van inhoud."
+
+#: includes/Shortcodes/ContactForm.php:101
+#, fuzzy
+msgid "Send Message"
+msgstr "Verstuur bericht"
+
+#: includes/Builder/NavigationBuilder.php:294
+msgid "Socials"
+msgstr "Socials"
+
+#: includes/Rest/BuilderRoutes.php:65
+msgid "Sorry, something wrong with data."
+msgstr "Sorry, er is iets mis met de gegevens."
+
+#: includes/Shortcodes/ContactForm.php:153
+#, fuzzy
+msgid "Successfully submitted!"
+msgstr "Succesvol ingediend!"
+
+#: includes/Admin/AdminTranslations.php:12
+msgid "Tell us about your site"
+msgstr "Vertel ons over je site"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Voettekst"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Kop"
+
+#. translators: %s php version
+#: functions.php:36
+msgid ""
+"The Hostinger Easy Onboarding plugin requires minimum PHP version of <b>"
+"%s</b>. "
+msgstr ""
+"De Hostinger Easy Onboarding plugin vereist een minimale PHP versie van <b>"
+"%s</b>."
+
+#: includes/Admin/AdminTranslations.php:37
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+#: includes/Admin/AdminTranslations.php:39
+msgid "This field should not be longer than 1024 symbols."
+msgstr "Dit veld mag niet langer dan 1024 symbolen zijn."
+
+#: includes/Admin/AdminTranslations.php:38
+msgid "This field should not be longer than 255 symbols."
+msgstr "Dit veld mag niet langer dan 255 symbolen zijn."
+
+#: includes/Admin/AdminTranslations.php:14
+msgid "Website type"
+msgstr "Type website"
+
+#: includes/Shortcodes/ContactForm.php:74
+#, fuzzy
+msgid "What's your email?"
+msgstr "Wat is je e-mail?"
+
+#: includes/Shortcodes/ContactForm.php:65
+#, fuzzy
+msgid "What's your name?"
+msgstr "Hoe heet je?"
+
+#: includes/Shortcodes/ContactForm.php:46
+#, fuzzy
+msgid "which I have read. I may withdraw my consent at any time."
+msgstr "die ik heb gelezen. Ik kan mijn toestemming op elk moment intrekken."
+
+#: includes/Shortcodes/ContactForm.php:82
+#, fuzzy
+msgid "Write your message..."
+msgstr "Schrijf je bericht..."
+
+#: includes/Rest/BuilderRoutes.php:111 includes/Rest/BuilderRoutes.php:146
+#: includes/Rest/BuilderRoutes.php:194
+msgid "Wrong sequence of step execution."
+msgstr "Verkeerde volgorde van stapuitvoering."
+
+#. translators: %s php version
+#: functions.php:40
+msgid "You are running <b>%s</b> PHP version."
+msgstr "Je gebruikt <b>%s</b> PHP versie."
+
+#: includes/Admin/AdminTranslations.php:34
+msgid ""
+"You have already generated content. Continuing will delete all previous "
+"content. Are you sure you want to proceed?"
+msgstr ""
+"Je hebt al inhoud gegenereerd. Doorgaan verwijdert alle eerdere inhoud. Weet "
+"je zeker dat je door wilt gaan?"
