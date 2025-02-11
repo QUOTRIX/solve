@@ -9,8 +9,8 @@
     },
     "customTemplates": [
         {
-            "name": "search-page",
-            "title": "Search Page",
+            "name": "home",
+            "title": "Home with Search",
             "postTypes": ["page"]
         }
     ],
