@@ -1,0 +1,6 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "title": "Search Page",
+    "version": 2,
+    "description": "Template for the search page"
+}
