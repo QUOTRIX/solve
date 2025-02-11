@@ -1,0 +1,1 @@
+This is a test folder to verify GitHub and Hostinger synchronization.
